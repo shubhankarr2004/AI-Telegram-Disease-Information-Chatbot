@@ -62,7 +62,6 @@ The chatbot can provide **disease descriptions, precautions, and conversational 
 
 ```
 git clone https://github.com/shubhankarr2004/disease-telegram-chatbot
-cd disease-telegram-chatbot
 ```
 
 ---
@@ -191,7 +190,7 @@ AI generated response using LLaMA model
 # 🚀 Future Improvements
 
 * Vector database integration (**FAISS / ChromaDB**)
-* Better NLP based disease detection
+* Better NLP-based disease detection
 * Web interface using **React or HTML/CSS**
 * Cloud deployment (AWS / Render / Railway)
 * Multi-language support
