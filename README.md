@@ -52,26 +52,26 @@ The chatbot can provide **disease descriptions, precautions, and conversational 
 ##**Workflow**
 
 User message
-↓
+->
 Telegram handler
-↓
+->
 Query processing
-↓
+->
 Information retrieval
-↓
+->
 Bot response
 
 
 **Medical Knowledge Retrieval**
 
 User question
-↓
+->
 Embedding
-↓
+->
 Vector search
-↓
+->
 Medical documents
-↓
+->
 LLM answer
 
 
