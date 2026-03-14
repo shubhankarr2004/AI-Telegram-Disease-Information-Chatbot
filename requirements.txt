@@ -1,0 +1,5 @@
+pandas
+requests
+fuzzywuzzy
+python-telegram-bot
+python-Levenshtein
