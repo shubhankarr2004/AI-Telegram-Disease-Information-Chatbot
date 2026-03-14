@@ -49,6 +49,33 @@ The chatbot can provide **disease descriptions, precautions, and conversational 
 
 * LLaMA 3 (running locally using **LM Studio**)
 
+##**Workflow**
+
+User message
+↓
+Telegram handler
+↓
+Query processing
+↓
+Information retrieval
+↓
+Bot response
+
+
+**Medical Knowledge Retrieval**
+
+User question
+↓
+Embedding
+↓
+Vector search
+↓
+Medical documents
+↓
+LLM answer
+
+
+
 ### Datasets
 
 * `symptom_Description.csv`
