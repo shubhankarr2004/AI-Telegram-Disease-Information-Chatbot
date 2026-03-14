@@ -108,7 +108,7 @@ source venv/bin/activate
 Install required packages:
 
 ```
-pip install pandas fuzzywuzzy python-telegram-bot requests
+pip install -r requirements.txt
 ```
 
 ---
